@@ -33,7 +33,7 @@ Although the overall workflow described in the book remains valid, Azure and the
 
 ---
 
-So. Authentication was done. Service principal existed. Scripts were clean. I had momentum, a book, and the unearned confidence of someone who hadn't yet tried to provision a VM in Azure using a 2020 textbook in 2025.
+So. Authentication was done. Service principal existed. Scripts were clean. I had momentum, a book, and the unearned confidence of someone who hadn't yet tried to provision a VM in Azure using a 2020 textbook in 2026.
 
 "How hard can spinning up a VM be?"
 
@@ -271,7 +271,7 @@ The things that changed since the book was printed:
 
 None of those are in the book. All of them are now in the script, with comments explaining why.
 
-The lab is ephemeral by design, cost-conscious by necessity, idempotent throughout, and documented well enough that I can explain every engineering decision in an interview without needing to refer back to the code.
+The lab is ephemeral by design, cost-conscious by necessity, idempotent throughout, and documented well enough that I can explain every engineering decision without needing to refer back to the code.
 
 Which is, honestly, the whole point.
 
